@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Passion+One:wght@700&family=Roboto&display=swap');
+.parallax {
+    /* The image used */
+    background-image: url("./images/jor.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax1 {
+    font-family: 'Passion One', sans-serif;
+    min-height: 450px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax2 {
+    /* The image used */
+    background-image: url("./images/new\ balance.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax3{
+    background-image: url("./images/pexels-hipkicks-6777980.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
